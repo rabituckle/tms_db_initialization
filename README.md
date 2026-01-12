@@ -1,11 +1,7 @@
 # Ride-Hailing Database – Mock Data Generator
 
 ## 📌 Mục tiêu
-Sinh dữ liệu giả (mock data) cho hệ thống ride-hailing
-để phục vụ:
-- test database
-- demo hệ thống
-- báo cáo môn học
+Sinh dữ liệu giả (mock data) cho hệ thống ride-hailing đảm bảo khớp nhất với dữ liệu thực
 
 ## 📂 Cấu trúc
 - `generators/` : sinh dữ liệu (.sql)
