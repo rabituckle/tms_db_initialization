@@ -32,9 +32,3 @@ A Python-based tool designed to generate realistic, high-fidelity synthetic data
 | payment       | Only for completed trips; amount = fare            | 50% Cash, 40% Wallet, 10% Credit               |
 | feedback      | Completed/Canceled trips only                      | Ratings vary based on trip outcome             |
 
-## 🚀 Quick Start
-
-### Install dependencies
-
-```bash
-pip install faker pytest
