@@ -1,4 +1,4 @@
-# TMS Data Generator (Rabituckle)
+# TMS Data Generator
 
 A Python-based tool designed to generate realistic, high-fidelity synthetic data for a Transportation Management System (TMS). It produces SQL INSERT statements while maintaining complex business logic and referential integrity.
 
@@ -6,7 +6,8 @@ A Python-based tool designed to generate realistic, high-fidelity synthetic data
 
 - **generators/**: Core logic scripts for each database table.  
 - **output/**: Stores individual generated SQL files.  
-- **test/**: pytest suite to validate data consistency and ratios.  
+- **test/**: pytest suite to validate data consistency and ratios.
+- **queries/**: Contains optimized business SQL queries.
 - **create_tms.sql**: Database schema definition.  
 - **data_tms.sql**: Final merged SQL file for production/testing.  
 - **merge.py**: Integration script to bundle all SQL files into a single transaction.  
