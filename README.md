@@ -1,4 +1,4 @@
-# TMS Data Generator (Rabituckle)
+# TMS Data Generator
 
 A Python-based tool designed to generate realistic, high-fidelity synthetic data for a Transportation Management System (TMS). It produces SQL INSERT statements while maintaining complex business logic and referential integrity.
 
